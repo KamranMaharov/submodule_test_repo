@@ -4,3 +4,4 @@ France's capital is Paris
 Germany's capital is Berlin
 Georgia's capital is Tbilisi
 Italy's capital is Roma
+Spain's capital is Madrid
